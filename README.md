@@ -1,4 +1,4 @@
-# balde-ready-admin
+# blade-ready-admin
 
 - for create a model with controller and migration file     
 `php artisan make:model YourModelName -c -m -r`
